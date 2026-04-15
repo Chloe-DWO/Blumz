@@ -14,6 +14,7 @@
 - **Computer Science:** Python, Java, Data Structures.
 
 ### 🛠️ Tech Stack & Tools
+
 ![Figma](https://shields.io)
 ![JavaScript](https://shields.io)
 ![Python](https://shields.io)
