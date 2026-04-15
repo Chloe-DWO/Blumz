@@ -1,4 +1,4 @@
- #Hi, I'm [Your Name]! 👋
+# Hi, I'm Blumz! 🌸✨
 ### Aspiring Design Engineer | CS Student (66/120 Credits) | Multilingual
 
 - 🚀 Currently finishing my BSc in Computer Science at UoPeople (GPA: 3.6).
