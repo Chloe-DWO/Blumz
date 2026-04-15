@@ -13,7 +13,20 @@
 - **Frontend:** HTML5, CSS3, JavaScript (ES6).
 - **Computer Science:** Python, Java, Data Structures.
 
+### 🛠️ Tech Stack & Tools
+![Figma](https://shields.io)
+![JavaScript](https://shields.io)
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![GitHub](https://shields.io)
+
 ### 🌱 Current Goals
 - [ ] Complete the remaining 54 credits of my BSc.
 - [ ] Master React and Tailwind CSS.
 - [ ] Travel to South Korea in 2027! 🇰🇷
+
+---
+### 📈 My GitHub Stats
+![Blumz's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
