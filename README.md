@@ -15,12 +15,12 @@
 
 ### 🛠️ Tech Stack & Tools
 
-![Figma](https://shields.io)
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![GitHub](https://shields.io)
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 
 ### 🌱 Current Goals
 - [ ] Complete the remaining 54 credits of my BSc.
