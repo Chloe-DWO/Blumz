@@ -1,33 +1,36 @@
-# Hi, I'm Blumz! 🌸✨
-### Aspiring Design Engineer | CS Student (66/120 Credits) | Multilingual
+# Hi, I'm Chloe/Blumz 👋
 
-- 🚀 Currently finishing my BSc in Computer Science at UoPeople (GPA: 3.6).
-- 🎨 Aiming to be a **Master Product Designer** specializing in UI/UX and Frontend Engineering.
-- 🌍 Trilingual: English (Native), French (C1), Korean (B1), Mandarin (A1).
-- 💻 Currently mastering: Modern Web Development (Angela Yu Bootcamp).
+Aspiring UX Engineer and frontend developer based in Johannesburg, South Africa.
+I build web interfaces that are both functional and intentionally designed.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Design:** Figma, Adobe Creative Suite.
-- **Frontend:** HTML5, CSS3, JavaScript (ES6).
-- **Computer Science:** Python, Java, Data Structures.
+### What I'm building
 
-### 🛠️ Tech Stack & Tools
-
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
-### 🌱 Current Goals
-- [ ] Complete the remaining 54 credits of my BSc.
-- [ ] Master React and Tailwind CSS.
-- [ ] Travel to South Korea in 2027! 🇰🇷
+- **[Travfica](https://travfica.com)** — a live travel marketplace prototype (HTML, CSS, JavaScript, Vercel)
+- Currently working through the Angela Yu Full-Stack Web Dev Bootcamp
+- BSc Computer Science at University of the People — 75/120 credits, GPA 3.65
 
 ---
-### 📈 My GitHub Stats
-![Blumz's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+
+### Tech
+
+HTML5 · CSS3 · JavaScript (ES6) · Python · Git · Vercel
+
+---
+
+### Languages
+
+English (native) · French (C1) · Korean (B1)
+
+---
+
+### Currently focused on
+
+- [ ] Shipping Travfica v2 with improved UX
+- [ ] Building to React and component-based architecture
+- [ ] Creating a UX case study from real design decisions
+
+---
+
+*Building in public. Open to remote junior frontend and UX engineering roles in 2026–2027.*
